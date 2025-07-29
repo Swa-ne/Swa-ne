@@ -2,10 +2,10 @@
 # About Me:
 👩🏻‍💻 Software Engineer <br/>
 🔭 I’m currently working on summarizing notes and audio/video lectures to make learning more efficient and accessible. <br/>
-🌱 I’m currently diving into the world of Generative AI — exploring how models can create text, images, and more. <br/>
+🌱 I’m currently diving into the world of Generative AI, exploring how models can create text, images, and more. <br/>
 ⚡ Fun fact: When I’m not coding, you’ll find me playing table tennis, watching movies and TV shows, or queuing up a few rounds of Valorant. <br/>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-bautista) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:spaulbautista@gmail.com) 
 
 # 💻 Tech Stack:
