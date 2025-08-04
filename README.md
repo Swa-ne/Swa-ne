@@ -15,6 +15,6 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=swa-ne&hide=stars&show_icons=true&theme=transparent&include_all_commits=true" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swa-ne&layout=compact&theme=transparent" />
+    <img height=200 align="center" src="https://github-reame-stats-sepia.vercel.app/api?username=swa-ne&hide=stars&show_icons=true&theme=transparent&include_all_commits=true" />
+    <img height=200 align="center" src="https://github-reame-stats-sepia.vercel.app/api/top-langs/?username=swa-ne&layout=compact&theme=transparent" />
 </div>
